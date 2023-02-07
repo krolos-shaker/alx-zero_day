@@ -1,2 +1,12 @@
+<<<<<<< HEAD
 ALX School
 ALX
+=======
+#!/bin/bash
+#!/bin/bash
+echo ALX
+#!/bin/bash
+ALX
+ALX School
+ALX School is so cool!
+>>>>>>> 418546ebc8601d4f8005fb2d260b29c70ded0eca

@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 The school is open!
 School
+=======
+echo school
+#!/bin/bash
+School
+The school is open!
+>>>>>>> 418546ebc8601d4f8005fb2d260b29c70ded0eca
